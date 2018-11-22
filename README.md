@@ -1,2 +1,2 @@
 # consult-theme-tutorial
-consult template scratch to WordPress theme development 
+Consult template scratch to WordPress theme development 
